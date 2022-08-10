@@ -162,6 +162,3 @@ We are currently working on `v1.0.0-beta.12`. Check out the [project board](http
 - [Ember CLI Shim](https://github.com/timrourke/ember-cli-shopify-draggable-shim) on Github by [@timrourke](https://github.com/timrourke)
 - [Ember CLI Shim](https://www.npmjs.com/package/ember-cli-shopify-draggable-shim) on NPM by [@timrourke](https://github.com/timrourke)
 
-## Copyright
-
-Copyright (c) 2018 Shopify. See LICENSE.md for further details.
